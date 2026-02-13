@@ -17,7 +17,7 @@ This example demonstrates how to create a federated data source that retrieves d
 * [Bind a Report to a Federated Master-Detail Data Source](https://docs.devexpress.com/XtraReports/400923)
 
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=Reporting-Bind-Report-To-Federated-Master-Detail-Data-Source&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=Reporting-Bind-Report-To-Federated-Master-Detail-Data-Source&~~~was_helpful=no)
 
